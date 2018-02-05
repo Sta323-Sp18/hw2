@@ -6,8 +6,7 @@ allowed_files = c("hw2.Rmd",
                   "hw2_whitelist.R",
                   "README.md",
                   "wercker.yml",
-                  "lego_sales.RData",
-                  "lego_sales.json",
+                  "lego_sales.rds",
                   ".gitignore")
 
 files = dir()
